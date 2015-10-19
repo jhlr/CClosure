@@ -1,2 +1,2 @@
 # CClosure
-C weird nested functions.
+Weird C nested functions.
